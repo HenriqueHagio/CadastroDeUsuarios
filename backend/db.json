@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@cod3r.com.br"
+    },
+    {
+      "name": "Henrique Jeova Da Silva Otone",
+      "email": "heryque08@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "gercineide s otone",
+      "email": " pp.cristo@hotmail.com",
+      "id": 4
+    }
+  ]
+}
